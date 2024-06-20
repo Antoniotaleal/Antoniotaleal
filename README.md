@@ -1,4 +1,4 @@
-## Olá! Eu sou o Antonio Leal
+## Olá! Eu sou Antonio Leal
 
 - 🌱 Estudante de JavaScript
 - 💬 Contate-me no meu e-mail: antoniotaleal@gmail.com
